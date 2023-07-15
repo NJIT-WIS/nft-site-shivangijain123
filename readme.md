@@ -34,6 +34,6 @@ All of the Playwright tests need to pass as well.
 
 - My Figma Project - [here](https://www.figma.com/file/QVWVFejtGo1pIxXQ0qmHwT/Flux---Figma-Build-Tutorial-(Starter)-(Community)?type=design&node-id=202%3A2&mode=design&t=DM6kK5pNGvHQSU1m-1)
 
-- GitHub Pages Hosted Project - [here](https://kaw393939.github.io/webdev1-module5/](https://github.com/NJIT-WIS/nft-site-shivangijain123)https://github.com/NJIT-WIS/nft-site-shivangijain123](https://github.com/NJIT-WIS/nft-site-shivangijain123.git)https://github.com/NJIT-WIS/nft-site-shivangijain123.git)
+- GitHub Pages Hosted Project - [here](https://kaw393939.github.io/webdev1-module5/](https://github.com/NJIT-WIS/nft-site-shivangijain123)https://github.com/NJIT-WIS/nft-site-shivangijain123](https://github.com/NJIT-WIS/nft-site-shivangijain123.git)https://github.com/NJIT-WIS/nft-site-shivangijain123.git](https://njit-wis.github.io/nft-site-shivangijain123/)https://njit-wis.github.io/nft-site-shivangijain123/)
 
 
